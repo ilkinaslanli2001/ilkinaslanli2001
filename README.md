@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ilkinaslanli2001
-- 👀 I’m interested in developing websites and robotd
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in developing websites and robots
 - 📫 How to reach me: ilkinaslanli0120@gmail.com
 
 <!---
