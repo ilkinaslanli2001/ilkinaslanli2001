@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilkinaslanli2001
 - 📫 How to reach me: ilkinaslanli0120@gmail.com
-- 👨‍💻 I’m skilled in ReactJs, NextJs, Redux, Flutter, Django(DRF)
+- 👨‍💻 I’m skilled in Flutter, ReactJs/NextJs/Redux, NodeJs
 
 
 📄 My LinkedIn https://www.linkedin.com/in/ilkinaslanli/?locale=en_US
